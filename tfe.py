@@ -2,6 +2,7 @@
 # -*- coding:utf-8 -*-
 
 from Ecran import *
+# this is the main file
 
 charg_x = 515
 charg_y = 370
